@@ -1,10 +1,10 @@
 {
   "name": "angular-rateit",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/akempes/angular-rateit.git"
+    "url": "https://github.com/snehilmodani/angular-rateit.git"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
